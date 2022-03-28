@@ -1,0 +1,15 @@
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\FinFast.DATOS.deps.json
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\FinFast.DATOS.runtimeconfig.json
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\FinFast.DATOS.runtimeconfig.dev.json
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\FinFast.DATOS.dll
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\ref\FinFast.DATOS.dll
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\bin\Debug\net5.0\FinFast.DATOS.pdb
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.csproj.AssemblyReference.cache
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.AssemblyInfoInputs.cache
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.AssemblyInfo.cs
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.csproj.CoreCompileInputs.cache
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.dll
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\ref\FinFast.DATOS.dll
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.pdb
+C:\Users\tsshu\Desktop\TECNICA FINFAST\PruebaTecnicaFinFast\FinFast.DATOS\obj\Debug\net5.0\FinFast.DATOS.genruntimeconfig.cache
